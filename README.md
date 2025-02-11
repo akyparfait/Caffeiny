@@ -14,4 +14,4 @@ Caffeiny é um bot de Discord desenvolvido em **JavaScript**, focado em **comuni
 ✅ Outras bibliotecas úteis  
 
 ---
-⚡ Projeto desenvolvido por AkyParfait!  
+⚡ Projeto desenvolvido por [@akyparfait](https://github.com/akyparfait)!  
